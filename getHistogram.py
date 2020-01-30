@@ -14,7 +14,7 @@ def searchvisualword(dictionary,descriptor):
     return closestCenter
 
 def getHistogram(dictionary, des):
-    histo = [0,0,0,0,0]#,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+    histo = [0,0,0,0,0]
     for descriptor in des:
         word = searchvisualword(dictionary,descriptor)
         histo[word] += 1
