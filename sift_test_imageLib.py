@@ -33,7 +33,7 @@ for filename in files:
     #plt.xlabel(filename)
     #plt.ylabel('Five bins/codewords/k-means')
     #plt.axis([0, 1000, 0, 10]) #occurences, bins
-    #plt.savefig('hist') # <- saves the currently active figure (which is empty in your code)
+    #plt.savefig('hist') # <- saves the currently active figure 
 
 #dictionary created
 dictionary = BOW.cluster()
