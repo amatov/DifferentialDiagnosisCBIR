@@ -26,7 +26,7 @@ for filename in files:
     #gray = cv2.cvtColor(image, cv2.CV_LOAD_IMAGE_GRAYSCALE)
     kp, des= sift.detectAndCompute(image, None)
     BOW.add(des)
-    #plt.figure() # <- makes a new figure and sets it active (add this)
+    #plt.figure() # <- makes a new figure and sets it active 
     #plt.hist(des) # <- finds the current active axes/figure and plots to it
     #plt.show()
     #plt.title('Codeword histogram')
