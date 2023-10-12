@@ -6,5 +6,5 @@
 
 ##### Content-based image retrieval query is accomplished via ElasticSearch using ranking based on a k-means clustering algorithm.
 
-##### See a preliminary demo of the BoW ranking at https://vimeo.com/365998906/e94e02a8af.
+##### See a preliminary demo of the BoW ranking at https://vimeo.com/365998906/e94e02a8af
 
