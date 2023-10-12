@@ -4,3 +4,5 @@
 ###### Content-based image retrieval query is accomplished via ElasticSearch using ranking based on a k-means clustering algorithm.
 
 ###### See a demo video at https://vimeo.com/365998906/e94e02a8af.
+
+https://www.researchgate.net/publication/374166145_Matov_Resume_2023
