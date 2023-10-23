@@ -1,4 +1,4 @@
-###  **Reverse Image Search / Content-Based Image Retrieval (CBIR)**
+###  Python code I wrote to implement a Reverse Image Search / Content-Based Image Retrieval (CBIR)
 
 #### Presentations and clinical applications based on this algorithm are available here: 
 
