@@ -1,6 +1,6 @@
 ####  Python code I wrote to implement a Reverse Image Search / Content-Based Image Retrieval (CBIR)
 
-#### Presentations and clinical applications based on this algorithm are available here: 
+#### Presentations and clinical applications based on my real-time algorithms are available here: 
 
 #### https://researchgate.net/publication/374166145_Matov_Resume_2023
 
