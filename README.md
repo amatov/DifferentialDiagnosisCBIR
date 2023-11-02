@@ -1,4 +1,4 @@
-####  Python code I wrote to implement a Reverse Image Search / Content-Based Image Retrieval (CBIR)
+#### Python code I wrote to implement a Reverse Image Search / Content-Based Image Retrieval (CBIR)
 
 #### Presentations and clinical applications based on my real-time algorithms are available here: 
 
@@ -12,5 +12,5 @@
 
 ##### Content-based image retrieval query is accomplished via ElasticSearch using ranking based on a k-means clustering algorithm.
 
-##### See a preliminary demo of the BoW ranking at https://vimeo.com/365998906/e94e02a8af
+##### See my preliminary demo of the BoW ranking at https://vimeo.com/365998906/e94e02a8af
 
