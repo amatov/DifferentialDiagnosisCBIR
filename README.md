@@ -14,3 +14,4 @@
 
 ##### See my preliminary demo of the BoW ranking at https://vimeo.com/365998906/e94e02a8af
 
+##### For further information on differential diagnosis, please see: https://github.com/amatov/FluorescentFundusNeurodegeneration
