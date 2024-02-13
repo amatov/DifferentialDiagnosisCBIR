@@ -4,6 +4,6 @@
 
 #### Content-based image retrieval query is accomplished via ElasticSearch using ranking based on a k-means clustering algorithm.
 
-### See my preliminary demo of the BoW ranking at https://vimeo.com/365998906/e94e02a8af
+### See my preliminary demo of the BoW ranking at: https://vimeo.com/365998906/e94e02a8af
 
 ### For further information regarding differential diagnosis based on in vivo imaging, please see: https://github.com/amatov/FluorescentFundusNeurodegeneration
