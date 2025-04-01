@@ -7,3 +7,5 @@
 ### See my preliminary demo of the BoW ranking at: https://vimeo.com/365998906/e94e02a8af
 
 ### For further information regarding differential diagnosis based on in vivo imaging, please see: https://github.com/amatov/FluorescentFundusNeurodegeneration
+
+### See also https://www.researchgate.net/publication/382850918_Analysis_of_Multiple_Myeloma_Drug_Efficacy
