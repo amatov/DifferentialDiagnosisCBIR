@@ -1,0 +1,42 @@
+Differential Diagnosis CBIR - License and Usage Notice
+==========================================================
+
+Copyright (c) Alexandre Matov. All rights reserved except as granted below.
+
+1. Scope
+--------
+This repository contains Python source code for a Content-Based Image
+Retrieval (CBIR) / reverse image search system developed by Alexandre
+Matov, using SIFT/SURF feature descriptors, a bag-of-words model, and
+ElasticSearch-based ranking. The code depends on third-party Python
+packages that are NOT included in this repository -- see
+DEPENDENCIES.md.
+
+2. Permitted use
+-----------------
+Permission is granted to use, copy, and modify the code in this repository
+free of charge for research and educational purposes, provided that:
+
+  a) Any resulting publication, presentation, or derivative work cites
+     the relevant publication referenced in README.md;
+  b) This notice is retained in copies or substantial portions of the
+     code.
+
+Commercial use, redistribution, or incorporation into a commercial
+product or service requires prior written permission from Alexandre Matov
+(alexandre.matov@gmail.com).
+
+3. No warranty
+---------------
+This software is provided "as is", without warranty of any kind, express
+or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, and noninfringement.
+In no event shall the author be liable for any claim, damages, or other
+liability arising from the use of this software.
+
+4. Third-party components
+--------------------------
+This source code depends on third-party Python packages (OpenCV with the
+contrib/xfeatures2d module, ElasticSearch, scikit-learn, scipy, imgaug,
+and others), which are not bundled in this repository and are subject to
+their own license terms -- see DEPENDENCIES.md.

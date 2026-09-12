@@ -15,6 +15,7 @@ seq = iaa.Sequential([
     # All images must have numpy's dtype uint8. Values are expected to be in
     # range 0-255.
 
+# EDIT: hardcoded absolute path to the original author's machine
 images = [ndimage.imread('/media/sf_flickr-images/im20014.jpg')]
 print(images)
 images_aug = seq.augment_images(images)
@@ -22,5 +23,6 @@ images_aug = seq.augment_images(images)
 i = 3
 for image in images_aug:
     i += 1
+    # EDIT: hardcoded absolute path to the original author's machine
     misc.imsave('/media/sf_flickr-images/surfer_distortion_%s_.jpg'%i,image)
     #train_on_images(images_aug)

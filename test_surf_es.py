@@ -25,6 +25,7 @@ def build_kmeans_model(descriptors, num_clusters=10000):
     print("done in %0.3fs" % (time() - start))
     return idxs, kmeans
 
+# EDIT: hardcoded absolute path to the original author's machine
 path = '/media/sf_flickr-images/*.jpg'
 files=glob.glob(path)
 

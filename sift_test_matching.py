@@ -5,8 +5,10 @@ import matplotlib.image as mpimg
 import pickle
 
 #img = cv2.imread('home.jpg')
+# EDIT: hardcoded absolute path to the original author's machine
 img1 = cv2.imread('/media/sf_flickr-images/im20014.jpg')
 gray1= cv2.cvtColor(img1,cv2.COLOR_BGR2GRAY)
+# EDIT: hardcoded absolute path to the original author's machine
 img2 = cv2.imread('/media/sf_flickr-images/im20015.jpg')
 gray2= cv2.cvtColor(img2,cv2.COLOR_BGR2GRAY)
 

@@ -21,6 +21,7 @@ def query_source_images(es, terms):
         body={"query": {"terms": {"tags": list(set(terms))}}})
 
 
+# EDIT: hardcoded absolute path to the original author's machine
 path = '/media/sf_flickr-images/*.jpg'
 files=glob.glob(path)
 
@@ -35,6 +36,7 @@ start = time()
 
 #filename = '/media/sf_flickr-images/im20014b.jpg'
 #filename = '/media/sf_flickr-images/surfer_distortion_4_.jpg'
+# EDIT: hardcoded absolute path to the original author's machine
 filename = '/media/sf_flickr-images/im20014.jpg'
 
 image = cv2.imread(filename,0)

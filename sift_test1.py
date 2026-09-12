@@ -5,7 +5,9 @@ import matplotlib.image as mpimg
 import pickle
 
 #img = cv2.imread('home.jpg')
+# EDIT: hardcoded absolute path to the original author's machine
 gray = cv2.imread('/media/sf_flickr-images/im20014.jpg',0)
+# EDIT: hardcoded absolute path to the original author's machine
 img = cv2.imread('/media/sf_flickr-images/im20014.jpg')
 #plt.imshow(img)
 #plt.show()
