@@ -27,8 +27,6 @@ which are not included in this repository.
   descriptor data, in `data/`.
 - `sift_keypoints.jpg`, `surf_keypoints.jpg` -- example keypoint
   visualizations, in `media/`.
-- Hardcoded absolute paths to the original author's machine are flagged
-  with a `# EDIT:` comment directly above them.
 - **License:** see [LICENSE](LICENSE) -- research/educational use.
 
 ## About
