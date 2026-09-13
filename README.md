@@ -1,3 +1,5 @@
+## DifferentialDiagnosisCBIR
+
 ## Quick start
 
 This repository implements a Content-Based Image Retrieval (CBIR) /
@@ -26,7 +28,7 @@ which are not included in this repository.
 - `des.sift.pickle`, `des.surf.pickle`, `des.test.pickle` -- precomputed
   descriptor data, in `data/`.
 - `sift_keypoints.jpg`, `surf_keypoints.jpg` -- example keypoint
-  visualizations, in `media/`.
+  visualizations, in [`media/`](media/).
 - **License:** see [LICENSE](LICENSE) -- research/educational use.
 
 ## About
