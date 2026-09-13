@@ -1,4 +1,4 @@
-## DifferentialDiagnosisCBIR
+## Differential Diagnosis CBIR
 
 Python code I wrote to implement a Reverse Image Search / Content-Based Image Retrieval (CBIR).
 
