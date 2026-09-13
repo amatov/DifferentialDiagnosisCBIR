@@ -14,7 +14,7 @@ which are not included in this repository.
 ## Repository contents
 
 - `ReverseImageSearchSIFT.py`, `getHistogram.py` -- build a SIFT-based
-  bag-of-words model over an image collection.
+  BoW model over an image collection.
 - `query_sift_es.py`, `query_sift_1000_es.py`, `query_surf_es.py` --
   query the model via ElasticSearch using SIFT or SURF descriptors.
 - `demo_query_1.py` -- a standalone demo query against a saved model.
